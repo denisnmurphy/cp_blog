@@ -5,7 +5,7 @@ Create an app that is fully CRUD enabled.
 Login/Logout Functionality.
 Syntax Highlighting + Markdown.
 
-## Setup Project
+## Setup Barebones of Project
 
 ```
 mkdir cpblog
