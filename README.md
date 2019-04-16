@@ -26,5 +26,7 @@ step_4_login
 step_5_add_comments
 step_6_markdown_syntax_highlight
 step_7_delete_posts
+step_8_signup_crispy_form
+
 
 ```
