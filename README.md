@@ -24,4 +24,6 @@ step_2_post_admin
 step_3_create_posts
 step_4_login
 step_5_add_comments
+step_6_markdown_syntax_highlight
+
 ```
